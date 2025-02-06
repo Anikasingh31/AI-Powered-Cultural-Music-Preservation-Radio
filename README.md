@@ -23,5 +23,5 @@ This project aims to **preserve and promote traditional music** using **AI and M
 ✅ **Use AI to categorize and recommend** music based on user engagement.  
 ✅ **Create an interactive platform** for music discovery and community engagement.  
 
-
-  
+🏆 Acknowledgments
+This project is part of an initiative to support UN Sustainable Development Goals (SDG 11: Sustainable Cities and Communities) by safeguarding cultural heritage through technology.
