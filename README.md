@@ -23,8 +23,5 @@ This project aims to **preserve and promote traditional music** using **AI and M
 ✅ **Use AI to categorize and recommend** music based on user engagement.  
 ✅ **Create an interactive platform** for music discovery and community engagement.  
 
-## 📖 How to Contribute  
-1. **Fork this repository**  
-2. **Clone the repo**:  
-   ```sh
-   git clone https://github.com/yourusername/AI-Music-Preservation.git
+
+  
